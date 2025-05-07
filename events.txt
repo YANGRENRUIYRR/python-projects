@@ -1,3 +1,1 @@
-My Birthday,25/04/24
-My Mother's Birthday,24/05/16
-My Father's Birthday,24/11/27
+Event,xxxx/xx/xx
