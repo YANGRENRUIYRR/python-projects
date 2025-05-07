@@ -1,0 +1,6 @@
+China/Beijing
+India/New Delhi
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+Japan/Tokyo
